@@ -3,7 +3,7 @@
 Welcome to **CoffeePulse**, an exciting B.Tech project that brews data-driven insights for coffee shop success! This Excel-based sales dashboard, developed by Shubham (Reg. No: 12310611) at **Lovely Professional University**, transforms over 150,000 transaction records into vibrant visualizations to optimize business strategies. Conducted under the guidance of **Dr. Karan Bajaj**, Assistant Professor, this project was finalized on April 12, 2025, for the **INT217** course in the School of Computer Science and Engineering.
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=CoffeePulse+Dashboard+Preview" alt="CoffeePulse Dashboard Preview" width="600"/>
+  <img src="https://raw.githubusercontent.com/shubham0915/EXCEL-PROJECT-ANALYSIS/main/CoffeePulse Dashboard Preview.png" alt="CoffeePulse Dashboard Preview" width="600"/>
 </p>
 
 ## 🌟 Project Overview
@@ -144,12 +144,12 @@ The project offers exciting opportunities for enhancement:
 
 ## 📥 Downloadable File
 Explore the interactive *CoffeePulse* Excel dashboard:  
-[Download Here](https://drive.google.com/file/d/1L94kZTpknb6SO18Cv-XC4CCP71mWO7R4/view?usp=sharing)
+[Download Here]([https://drive.google.com/file/d/1L94kZTpknb6SO18Cv-XC4CCP71mWO7R4/view?usp=sharing](https://drive.google.com/file/d/1j3L68rf8YIS1G4IvZA6G6lYhWrjlBXO6/view?usp=sharing))
 
 ---
 
 ## 📧 Contact
-For inquiries, reach out to **Dr. Karan Bajaj** at [er.kbajaj@gmail.com](mailto:er.kbajaj@gmail.com).
+For inquiries, reach out to **Shubham** at [shubhamkuya@gmail.com](mailto:shubhamkuya@gmail.com).
 
 ---
 
